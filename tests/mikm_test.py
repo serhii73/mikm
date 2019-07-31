@@ -1,7 +1,7 @@
 import pytest
 
-from mikm.mikm import conversion
-from mikm.mikm import UnitError
+from mikm.converter import conversion
+from mikm.converter import UnitError
 
 
 def test_right_conversion():
