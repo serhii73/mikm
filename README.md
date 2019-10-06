@@ -5,7 +5,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/serhii73/mikm.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/serhii73/mikm/stargazers/)
 ![GitHub forks](https://img.shields.io/github/forks/serhii73/mikm.svg?style=social)
 [![GitHub issues](https://img.shields.io/github/issues/serhii73/mikm.svg)](https://GitHub.com/serhii73/mikm/issues/)
-[![Build Status](https://travis-ci.org/serhii73/mikm.svg?branch=master)](https://travis-ci.org/serhii73/mikm)
 [![Maintainability](https://api.codeclimate.com/v1/badges/18c3e844245a2585f912/maintainability)](https://codeclimate.com/github/serhii73/mikm/maintainability)
 [![BCH compliance](https://bettercodehub.com/edge/badge/serhii73/mikm?branch=master)](https://bettercodehub.com/)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/serhii73/mikm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/serhii73/mikm/alerts/)
